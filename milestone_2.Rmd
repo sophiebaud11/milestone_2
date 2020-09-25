@@ -1,0 +1,25 @@
+---
+title: "milestone_2.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Milestone 2
+
+## Project 1: The Language of Emojis by Linda Qin
+
+Pros:
+This project is beautifully design, with smooth scrolling, interesting animations, and a vibrant color scheme. The graphs themselves are creative in their presentations, and the diversity between them makes the project all the more engaging.
+
+Cons:
+The sample size is incredibly small (hovering around 6 percent of Harvard's campus) and very skewed in terms of grade and demographics. That being said, the choice to use count instead of percentage for many of the graphs further skewed the visualization of the data. This is not a very representative study, but it is still an interesting one (especially visually)!
+
+## Project 2: Content Analysis of Presidential Speeches by Owen Bernstein
+Pros:
+I really liked the approach of offering multiple different ways to visualize the same 5 categories, even within the framing of "By Time" and "By Candidate." This allowed for a widespread and compelling understanding of the multiple different factors and trends at play!
+
+Cons:
+There is a lot of text, and the site could have benefited from being more spread out and slightly less verbose. A design scheme focused on expanding whitespace and thinning out the font might have helped with this as well!
